@@ -1,0 +1,26 @@
+<style>
+* {
+	margin: 0rem;
+	padding: 0rem;
+}
+
+.parent {
+	width: 12.5rem;
+	height: 12.5rem;
+	background-color: antiquewhite;
+	position: relative;
+	border: 2rem solid #00FFFF;
+}
+
+.children {
+	background-color: aqua;
+	width: 3.125rem;
+	height: 3.125rem;
+	position: absolute;
+	border: 2rem solid cadetblue;
+	left: 3.125rem;
+	right: 3.125rem;
+	top: 3.125rem;
+}
+
+< /style>
